@@ -1,1 +1,1 @@
-# meu_primeiro_projeto_jogajunto
+# novo processo de documentação para cliente CQS
